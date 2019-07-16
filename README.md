@@ -31,4 +31,26 @@ joojee-admin-template 是基于 Vue 框架和 iView 组件生态，为聚集优�
     ├── view  页面文件
     └── tests  测试相关
 ```
-# joojee-admin-template
+
+# 快速开始
+
+从 github 获取最新的 joojee-admin-template 代码，使用如下命令获取代码：
+
+```
+git clone https://github.com/miiky/joojee-admin-template.git
+```
+
+然后进入项目根目录
+
+```
+cd joojee-admin-template
+```
+
+安装依赖并运行项目
+
+```
+npm install
+npm run dev
+```
+
+然后只需要等待编译结束后其自动打开页面
